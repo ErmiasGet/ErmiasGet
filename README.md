@@ -12,9 +12,6 @@
 <a href="https://www.linkedin.com/in/ermias-getahun-919623279/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/ErmiasGet">
-<img src="https://img.shields.io/badge/GitHub-ErmiasGet-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 <br/><br/>
 
@@ -241,30 +238,6 @@ A food delivery ecosystem connecting customers, restaurants, restaurant staff, d
 
 ---
 
-# 💼 Other Projects
-
-### 🛒 GulitSimpleEcommerce
-
-Full-stack e-commerce application with authentication, products, shopping cart, and backend API architecture.
-
-**Express.js • MongoDB • React**
-
----
-
-### 💬 Real-Time Communication App
-
-Real-time communication application exploring peer-to-peer communication and live messaging.
-
-**React • Node.js • Socket.io • WebRTC**
-
----
-
-### 🏘️ Beten Homes
-
-Property and tenant management solution focused on organizing property information, tenant records, and notification-oriented workflows.
-
----
-
 # 🏗️ What I Enjoy Building
 
 <div align="center">
@@ -333,9 +306,9 @@ Property and tenant management solution focused on organizing property informati
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ErmiasGet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=ErmiasGet&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErmiasGet&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErmiasGet&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
@@ -353,7 +326,7 @@ Property and tenant management solution focused on organizing property informati
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ErmiasGet&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ErmiasGet&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
@@ -361,26 +334,20 @@ Property and tenant management solution focused on organizing property informati
 
 # 🐍 Contribution Snake
 
+# 🐍 Contribution Snake
+
 <div align="center">
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/ErmiasGet/ErmiasGet/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErmiasGet/ErmiasGet/output/github-contribution-grid-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ErmiasGet/ErmiasGet/output/github-contribution-grid-snake.svg">
+
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ErmiasGet/ErmiasGet/output/github-contribution-grid-snake.svg">
+
+</picture>
 
 </div>
-
----
-
-# 🎯 2026 Goals
-
-```text
-☑ Build production-ready SaaS platforms
-☑ Improve advanced React & Next.js skills
-☑ Strengthen backend architecture
-☑ Master system design fundamentals
-☑ Build AI / LLM-powered applications
-☑ Improve DevOps & cloud deployment skills
-☑ Contribute to open-source projects
-☑ Build products that solve real-world problems
-```
 
 ---
 
@@ -394,10 +361,6 @@ Property and tenant management solution focused on organizing property informati
 
 <a href="https://www.linkedin.com/in/ermias-getahun-919623279/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ErmiasGet">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://x.com/GetahunJeremiah">
