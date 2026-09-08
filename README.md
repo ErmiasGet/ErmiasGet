@@ -334,8 +334,6 @@ A food delivery ecosystem connecting customers, restaurants, restaurant staff, d
 
 # 🐍 Contribution Snake
 
-# 🐍 Contribution Snake
-
 <div align="center">
 
 <picture>
